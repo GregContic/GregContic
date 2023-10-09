@@ -3,7 +3,7 @@ header {
     font-family: Verdana, Geneva, Tahoma, sans-serif; 
   }
 
-.bio .accolades{
+.bio, .accolades, ul{
   text-align: center;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   padding-left: 100px;
