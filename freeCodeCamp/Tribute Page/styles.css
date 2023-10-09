@@ -1,0 +1,12 @@
+header {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+  }
+
+.bio .accolades{
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
