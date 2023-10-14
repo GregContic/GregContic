@@ -2,7 +2,7 @@
 html{
   min-width: 290px;
   color: #4d4e53;
-  background-color: #ffffff;
+  background-color: #E6EAED;
   font-family: 'Comic Sans MS', Verdana, sans-serif;
   line-height: 1.5;
 }
@@ -79,7 +79,7 @@ code {
   word-break: normal;
   word-wrap: normal;
   line-height: 2;
-  background-color: #f7f7f7;
+  background-color: #C8D0D8;
   padding: 15px;
   margin: 10px;
   border-radius: 5px;
