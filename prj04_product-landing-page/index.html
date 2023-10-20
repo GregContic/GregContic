@@ -1,123 +1,108 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <link rel="stylesheet" href="styles.css">
-    <meta charset="UTF-8">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
-  </head>
-  <body data-new-gr-c-s-check-loaded="8.907.0" data-gr-ext-installed="">
-    <div id="page-wrapper">
-      <header id="header">
-        <div class="logo">
-          <img id="header-img" src="https://drive.google.com/drive/u/0/folders/1Z_wm_t0aZx-8DmnhnFmE41WqTT6UurR_" alt="original trombones logo">
+    <head>
+        <title>Product Landing Page</title>
+        <link rel="stylesheet" href="styles.css">
+        <meta charset="UTF-8">
+        <script src="https://kit.fontawesome.com/edf97ceb13.js" crossorigin="anonymous"></script>
+    </head>
+    <body>
+        <header id="header">
+            <div class="logo">
+                <img id="header-img" alt="logo" src="toilette-paper-logo.png">
+            </div>
+            <nav id="nav-bar">
+                <ul>
+                    <li><a class="nav-link" href="#papers">Features</a></li>
+                    <li><a class="nav-link" href="#videos">How It's Made</a></li>
+                    <li><a class="nav-link" href="#pricing">Pricing</a></li>
+                </ul>
+            </nav>
+        </header>
+        <section id="hero">
+            <h2 class="indent">Premium Toilet Papers</h2>
+            <form id="form" action="https://www.freecodecamp.com/email-submit">
+                <input type="email" id="email" placeholder="Please enter your email." name="email" required/>
+                <input type="submit" id="submit" value="ORDER NOW" />
+            </form>
+        </section>
+        <div class="container">
+            <div id="papers">
+                <div class="grid">
+                    <div class="icon">
+                        <i class="fa-solid fa-toilet-paper"></i>
+                    </div>
+                    <div class="text">
+                        <h2>Premium Tissue</h2>
+                        <p>Our toilet papers use the finest fibers in all of the observable universe.
+                            The papers are so soft that you can use them as comfort blankets even after
+                            you use them on the toilet.
+                        </p>
+                    </div>
+                </div>
+                    <div class="grid">
+                        <div class="icon">
+                            <i class="fa-sharp fa-solid fa-leaf"></i>
+                        </div>
+                        <div class="text">
+                            <h2>Special-Laced</h2>
+                            <p>Our toilet papers are laced with C17H21NO4 tropane alkaloid compound.
+                                A strong special element that gives an extra kick to our exquisite toilet papers.
+                                It is highly recommended that you give our papers a little sniff before you use them.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="grid">
+                        <div class="icon">
+                            <i class="fa-solid fa-gears"></i>
+                        </div>
+                        <div class="text">
+                            <h2>Highly Durable</h2>
+                            <p>The papers are manufactured using the latest cutting-edge technology that specializes
+                                in making durable materials which in this case, our magnificent toilet papers.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="videos">
+                <iframe id="video" src="https://www.youtube-nocookie.com/embed/watch?v=66IywMj8g24&ab_channel=Localish?rel=0&controls=0&showinfo=0" height="315" width="500" title="Sample Video of Toilet Paper (Not Sponsored)" frameborder="0"></iframe> 
+            </div>
+            <div id="pricing">
+                <div class="product">
+                    <div class="level">SPECIAL ROLLS</div>
+                    <h2>₱69.69</h2>
+                    <ol>
+                        <li>10 Rolls</li>
+                        <li>Honey Scented</li>
+                        <li>Special-Laced</li>
+                        <li>Soft Textured</li>
+                    </ol>
+                    <button class="btn">SELECT</button>
+                </div>
+                <div class="product">
+                    <div class="level">PREMIUM ROLLS</div>
+                    <h2>₱4206969.69</h2>
+                    <ol>
+                        <li>100000 Rolls</li>
+                        <li>Lavender Scented</li>
+                        <li>Turns Feces Into Gold</li>
+                        <li>Made with Titanium</li>
+                    </ol>
+                    <button class="btn">SELECT</button>
+                </div>
+                <div class="product">
+                    <div class="level">ULTIMATE ROLLS</div>
+                    <h2>₱9999999.69</h2>
+                    <ol>
+                        <li>Infinite Rolls</li>
+                        <li>Space Scented</li>
+                        <li>Traverses Dimensions</li>
+                        <li>Turns Black Holes into Black Holes</li>
+                    </ol>
+                    <button class="btn">SELECT</button>
+                </div>
+            </div>
         </div>
-        <h1 class="ballsack">C-Laced Toilet Paper</h1>
-
-        <nav id="nav-bar">
-          <ul>
-            <li><a class="nav-link" href="#features">Features</a></li>
-            <li><a class="nav-link" href="#how-it-works">How It Works</a></li>
-            <li><a class="nav-link" href="#pricing">Pricing</a></li>
-          </ul>
-        </nav>
-      </header>
-
-      <div class="container"></div>
-
-      <section id="hero">
-        <h2>Handcrafted, home-made masterpieces</h2>
-        <form id="form" action="https://www.freecodecamp.com/email-submit">
-          <input name="email" id="email" type="email" placeholder="Enter your email address" required="">
-          <input id="submit" type="submit" value="Get Started" class="btn">
-        </form>
-      </section>
-
-      <div class="container">
-        <section id="features">
-          <div class="grid">
-            <div class="icon"><i class="fa fa-3x fa-fire"></i></div>
-            <div class="desc">
-              <h2>Premium Materials</h2>
-              <p>
-                Our trombones use the shiniest brass which is sourced locally.
-                This will increase the longevity of your purchase.
-              </p>
-            </div>
-          </div>
-          <div class="grid">
-            <div class="icon"><i class="fa fa-3x fa-truck"></i></div>
-            <div class="desc">
-              <h2>Fast Shipping</h2>
-              <p>
-                We make sure you recieve your trombone as soon as we have
-                finished making it. We also provide free returns if you are not
-                satisfied.
-              </p>
-            </div>
-          </div>
-          <div class="grid">
-            <div class="icon">
-              <i class="fa fa-3x fa-battery-full" aria-hidden="true"></i>
-            </div>
-            <div class="desc">
-              <h2>Quality Assurance</h2>
-              <p>
-                For every purchase you make, we will ensure there are no damages
-                or faults and we will check and test the pitch of your
-                instrument.
-              </p>
-            </div>
-          </div>
-        </section>
-        <section id="how-it-works">
-          <iframe id="video" height="315" src="https://www.youtube-nocookie.com/embed/y8Yv4pnO7qc?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen=""></iframe>
-        </section>
-        <section id="pricing">
-          <div class="product" id="tenor">
-            <div class="level">Tenor Trombone</div>
-            <h2>$600</h2>
-            <ol>
-              <li>Lorem ipsum.</li>
-              <li>Lorem ipsum.</li>
-              <li>Lorem ipsum dolor.</li>
-              <li>Lorem ipsum.</li>
-            </ol>
-            <button class="btn">Select</button>
-          </div>
-          <div class="product" id="bass">
-            <div class="level">Bass Trombone</div>
-            <h2>$900</h2>
-            <ol>
-              <li>Lorem ipsum.</li>
-              <li>Lorem ipsum.</li>
-              <li>Lorem ipsum dolor.</li>
-              <li>Lorem ipsum.</li>
-            </ol>
-            <button class="btn">Select</button>
-          </div>
-          <div class="product" id="valve">
-            <div class="level">Valve Trombone</div>
-            <h2>$1200</h2>
-            <ol>
-              <li>Plays similar to a Trumpet</li>
-              <li>Great for Jazz Bands</li>
-              <li>Lorem ipsum dolor.</li>
-              <li>Lorem ipsum.</li>
-            </ol>
-            <button class="btn">Select</button>
-          </div>
-        </section>
-        <footer>
-          <ul>
-            <li><a href="#">Privacy</a></li>
-            <li><a href="#">Terms</a></li>
-            <li><a href="#">Contact</a></li>
-          </ul>
-          <span>Copyright 2016, Original Trombones</span>
-        </footer>
-      </div>
-    </div>
-  
-
-</body>
-</html>
+    </body>
+</html> 
