@@ -1,19 +1,59 @@
-🏀 About Me
+<!-- 🎧 README.md - Harry Gregson -->
 
-I'm a passionate basketball fan, especially for the Golden State Warriors. When I'm not catching games, I love watching shows and immersing myself in hip-hop music. Some of my favorite artists are Travis Scott, Kendrick Lamar, and J. Cole.
+<h1 align="center">Hey, I'm Harry Gregson 👋</h1>
+<h3 align="center">Software Engineer • Web Developer • Web Designer</h3>
 
-🎮 Hobbies
+<p align="center">
+  <img src="https://github.com/DenverCoder1/readme-typing-svg/blob/main/README.md" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Code.+Design.+Create.+;Crafting+digital+experiences+with+style." alt="Typing SVG" />
+</p>
 
-I enjoy playing games in my free time. Whether it's online or offline, I’m always up for a new challenge.
+---
 
-💻 Tech Stack
+### 🪶 About Me
 
-I'm well-versed in HTML, CSS, and JavaScript. I also have knowledge in Kotlin, Python, C#, and Java.
+I'm **Harry Gregson**, a developer who loves turning ideas into functional and aesthetic experiences.  
+From frontend visuals to backend logic — I aim for balance, clarity, and flow in everything I build.  
 
-🌱 Currently Learning
+- 🧩 **Core skills:** HTML, CSS, JavaScript, Kotlin, Python, Java, React Native  
+- 📱 **Helped build:** [**BooklyPH**](#) – a mobile app for seamless book sharing and management  
+- 🎯 Currently exploring **modern UI frameworks**, **AI-driven interfaces**, and **cross-platform design**  
+- 💬 I value **clean code**, **meaningful design**, and **collaboration**  
+- 🕶️ “Not everyone’s built like us.” — *Kendrick Lamar*
 
-I'm constantly exploring new technologies and improving my skills in full-stack development.
+---
 
-📫 Let's Connect!
+### 🧰 Tech Stack
 
-Feel free to reach out via my GitHub profile if you want to collaborate or just chat
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative,tailwind,java,kotlin,python,git,figma,vscode" />
+</p>
+
+---
+
+### 🌙 Aesthetic in Motion
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+---
+
+### ✨ Connect With Me
+
+> links coming soon 👀  
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-6A5ACD?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+<p align="center">✨ Crafted with passion & a touch of code artistry ✨</p>
