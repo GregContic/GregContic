@@ -4,7 +4,7 @@
 <h3 align="center">Software Engineer • Web Developer • Web Designer</h3>
 
 <p align="center">
-  <img src="[https://github.com/DenverCoder1/readme-typing-svg/blob/main/README.md](https://readme-typing-svg.demolab.com/demo/)" alt="Typing SVG" />[![Typing SVG]()](https://git.io/typing-svg)
+  <img src="https://github.com/DenverCoder1/readme-typing-svg/blob/main/README.md" alt="Typing SVG" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Code.+Design.+Create.+;Crafting+digital+experiences+with+style." alt="Typing SVG" />
 </p>
 
