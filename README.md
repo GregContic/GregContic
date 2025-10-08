@@ -45,9 +45,9 @@ From frontend visuals to backend logic — I aim for balance, clarity, and flow 
 > links coming soon 👀  
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://gregcontic.github.io/MyPortfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-6A5ACD?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="harrydenesia44@gmail.com"><img src="https://img.shields.io/badge/Email-6A5ACD?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
